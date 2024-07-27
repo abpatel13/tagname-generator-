@@ -1,0 +1,35 @@
+*{
+    margin: 0;padding: 0;
+
+}
+
+.container{
+    margin: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+span{
+    text-align: end;
+}
+
+.tagName{
+    background-color: #ff0000;
+    width: 150px;
+    height: 200px;
+    margin: 2rem;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.display{
+    color: black;
+    background-color: white;
+    border-radius: 0.5rem;
+    margin: 0.5rem;
+}
